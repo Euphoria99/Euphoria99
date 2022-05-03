@@ -19,7 +19,7 @@
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Euphoria99&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euphoria99&hide=jupyter+notebook)](https://github.com/Euphoria99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euphoria99&hide=jupyter+notebook,c%2B%2B,CMake)](https://github.com/Euphoria99/github-readme-stats)
 
 <br />
 <h3 align="left">Languages and Tools 💻:</h3>
