@@ -9,14 +9,14 @@
 
 ### About Me 🚀
 
-🌱 I'm a Full Stack Developer 🖥️ passionate about coding and innovation. I specialize in MEAN stack and have experience with Docker 🐳 and Kubernetes 🚢. I also have a growing interest in Flutter 📱. Additionally, I've worked extensively with AWS ☁️ and its related services. 
-👨‍💻 I love to dive into new technologies and continuously expand my skill set.
+🌱 I'm a Full Stack Developer 🖥️ passionate about coding and innovation. <br/> I specialize in MEAN stack and have experience with Docker 🐳 and Kubernetes 🚢. <br/> I also have a growing interest in Flutter 📱. Additionally, I've worked extensively with AWS ☁️ and its related services. <br/>
+👨‍💻 I love to dive into new technologies and continuously expand my skill set.<br/>
 ⚙️ Currently exploring the world of DevOps.
 
 Interests and Hobbies 😄
-🎮 In my free time, you'll find me gaming online, 🚴 going on long rides, or enjoying music 🎵.
-📺 I'm a big fan of anime, ⚽ football, and cricket. I also enjoy watching esports competitions.
-✈️ I'm always up for an adventure and love to travel and explore new places.
+🎮 In my free time, you'll find me gaming online, 🚴 going on long rides, or enjoying music 🎵.<br/>
+📺 I'm a big fan of anime, ⚽ football, and cricket. I also enjoy watching esports competitions. <br/>
+✈️ I'm always up for an adventure and love to travel and explore new places.<br/>
 
 Feel free to connect and collaborate! Let's create something awesome together. 🌟
 
